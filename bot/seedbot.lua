@@ -230,25 +230,7 @@ function create_config( )
     },
     sudo_users = {175623013,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
-
-
-Admins
-@dlt_admin_2 [Founder]
-@dlt_admin_2 [Developer]
-@dlt_admin_2 [Developer]
-@dlt_admin_2 [Manager]
-@dlt_admin_2 [Admin]
-
-Special thanks to
-seed team
-abolfazl.k
-Dalton team
-
-Our channels
-@iran_DALAD [persian]
-]],
+    about_text = [[ ]],
     help_text_realm = [[
 Realm Commands:
 
